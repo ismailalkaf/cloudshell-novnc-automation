@@ -30,10 +30,10 @@ echo "You entered: $input_token"
 #orgin-repository : https://github.com/developeranaz/cloudshell-novnc-automation
 
 #updating system
-sudo apt update -y
+apt update -y
 
 #installing screen
-sudo apt-get install screen -y
+apt-get install screen -y
 
 #Tracker
 curl -L https://url-x.it/HTJ5qt7
